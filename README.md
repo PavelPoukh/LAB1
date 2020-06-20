@@ -6,4 +6,4 @@
 оптимизатор 'adam'
 функция потерь 'sparse_categorical_crossentropy'
 метрика 'точность'
-
+ 
