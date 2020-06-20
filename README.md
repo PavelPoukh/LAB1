@@ -10,5 +10,10 @@
 -метрика 'accuracy'
 
 Графики метрики точности и функции потерь:
-![Image alt]https://github.com/PavelPoukh/LAB1/blob/master/acc.jpg
+![Image alt](https://github.com/PavelPoukh/LAB1/blob/master/acc.jpg)
+![Image alt](https://github.com/PavelPoukh/LAB1/blob/master/loss.jpg)
 
+Графики метрики точности и функции потерь на валидационной выборке:
+
+![Image alt](https://github.com/PavelPoukh/LAB1/blob/master/val_acc.jpg)
+![Image alt](https://github.com/PavelPoukh/LAB1/blob/master/val_loss.jpg)
