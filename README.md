@@ -8,4 +8,5 @@
  
  
 Графики метрики точности и функции потерь на валидационной выборке:
+https://github.com/PavelPoukh/LAB1/blob/master/acc.jpg
  
