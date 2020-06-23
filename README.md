@@ -15,13 +15,13 @@
 
 При обучении нейронной сети происходит за 50 эпох
 
-loss: 1.4366 - acc: 0.4827 - val_loss: 1.5164 - val_acc: 0.4581
+Значение итоговой точности: 0,3766
 
 Графики метрики точности и функции потерь:
-![Image alt](https://github.com/PavelPoukh/LAB1/blob/master/acc.jpg)
-![Image alt](https://github.com/PavelPoukh/LAB1/blob/master/loss.jpg)
+![Image alt](https://github.com/PavelPoukh/LAB1/blob/master/epoch_categorical_accuracy.PNG)
+![Image alt](https://github.com/PavelPoukh/LAB1/blob/master/epoch_loss.PNG)
 
 Графики метрики точности и функции потерь на валидационной выборке:
 
-![Image alt](https://github.com/PavelPoukh/LAB1/blob/master/val_acc.jpg)
-![Image alt](https://github.com/PavelPoukh/LAB1/blob/master/val_loss.jpg)
+![Image alt](https://github.com/PavelPoukh/LAB1/blob/master/epoch_var_categorical_accuracy.PNG)
+![Image alt](https://github.com/PavelPoukh/LAB1/blob/master/epoch_var_loss.PNG)
